@@ -1,0 +1,10 @@
+D:\Akhil Mittal\Articles and Blogs\4\SourceCode\Dlls\CodeFirstData.dll
+D:\Akhil Mittal\Articles and Blogs\4\SourceCode\Dlls\CodeFirstData.pdb
+D:\Akhil Mittal\Articles and Blogs\4\SourceCode\CodeFirstData\obj\Debug\ResolveAssemblyReference.cache
+D:\Akhil Mittal\Articles and Blogs\4\SourceCode\CodeFirstData\obj\Debug\CodeFirstData.dll
+D:\Akhil Mittal\Articles and Blogs\4\SourceCode\CodeFirstData\obj\Debug\CodeFirstData.pdb
+D:\Akhil Mittal\Articles and Blogs\Code First Approach using Entity Framework and MVC3 Razor View\SourceCode\Dlls\CodeFirstData.dll
+D:\Akhil Mittal\Articles and Blogs\Code First Approach using Entity Framework and MVC3 Razor View\SourceCode\Dlls\CodeFirstData.pdb
+D:\Akhil Mittal\Articles and Blogs\Code First Approach using Entity Framework and MVC3 Razor View\SourceCode\CodeFirstData\obj\Debug\ResolveAssemblyReference.cache
+D:\Akhil Mittal\Articles and Blogs\Code First Approach using Entity Framework and MVC3 Razor View\SourceCode\CodeFirstData\obj\Debug\CodeFirstData.dll
+D:\Akhil Mittal\Articles and Blogs\Code First Approach using Entity Framework and MVC3 Razor View\SourceCode\CodeFirstData\obj\Debug\CodeFirstData.pdb
